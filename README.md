@@ -1,9 +1,10 @@
-Hi, there. 🖐
-- 👋 Hi, I’m Goran.
-- 👀 I’m interested in android development.
-- 🌱 I’m currently learning Kotlin with the help of online community.
-- 💞️ I’m looking for an intern or entry level job where the focus would be on learnig.
-- 📫 You can reach me on goran8antunovic@gmail.com
+Greetings! 🖐
+
+I go by the name Goran and I'm excited about delving into the world of Android development. Currently, I'm dedicated to honing my skills in Kotlin, with the invaluable support of the online community. I am eagerly seeking an intern or entry-level position that prioritizes continuous learning as I embark on this journey.
+
+Feel free to reach out to me at goran8antunovic@gmail.com if you'd like to connect or discuss any opportunities.
+
+Thank you!
 
 <!---
 AntGoran/AntGoran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
